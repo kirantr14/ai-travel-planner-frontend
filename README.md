@@ -20,6 +20,12 @@ https://ai-travel-planner-backend-y9xx.onrender.com
 
 ---
 
+## 🎥 Project Demo
+
+Watch the complete working demonstration of the AI Travel Planner:
+
+[▶️ Watch the Project Demo](https://youtu.be/jG7-KrIhMEk)
+
 ## GitHub Repositories
 
 ### Frontend Repository
